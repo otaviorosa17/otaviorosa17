@@ -1,4 +1,4 @@
-<div align="center"><h3>Olá, sou o Otávio 👋😁</h3></div>
+<div align="center"><h1>Olá, sou o Otávio 👋😁</h1></div>
 
 <div align="center">
   <a href="https://github.com/otaviorosa17">
